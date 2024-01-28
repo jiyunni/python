@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from yahtzee_Dice import *
+from 객체프로그래밍.yahtzee_Dice import *
 
 
 class Rule(ABC):
